@@ -31,3 +31,14 @@ canvas {
 .btn-danger {
     font-size: 20px;
 }
+
+.footer {
+    line-height: 3;
+    color: black;
+    background-color: white;
+    bottom: 0;
+    margin-bottom: 0px;
+    position: fixed;
+    width: 100%;
+    text-align: center;
+}
